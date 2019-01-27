@@ -32,7 +32,7 @@ Technologies:
     .Spring Boot with dependencies
 
     .Html/css/bootstrap
-    
+
     .MySQL Database
 
 What I'll have to learn:

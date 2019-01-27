@@ -8,7 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 WireFrames
 ------------------------------------------------------------------------------------------------------------------------
 . Home page
+
 . Register page
+
 . offers page to view offers for each card
 
 https://app.moqups.com/suha/cDUnBFKZzw/view/page/a591b6c06

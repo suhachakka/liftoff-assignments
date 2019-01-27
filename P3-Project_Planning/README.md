@@ -5,15 +5,27 @@ For this assignment, you'll create some initial plans for your project.
 [Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
 
 ## Submission Instructions
+WireFrames
+------------------------------------------------------------------------------------------------------------------------
+. Home page
+. Register page
+. offers page to view offers for each card
 
-### Wireframes
+https://app.moqups.com/suha/cDUnBFKZzw/view/page/a591b6c06
+------------------------------------------------------------------------------------------------------------------------
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
-### Project Tracker
+Project Tracker
+------------------------------------------------------------------------------------------------------------------------
+Added some User Stories and attached the link and screen shots
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://www.pivotaltracker.com/n/projects/2239384
+------------------------------------------------------------------------------------------------------------------------
 
-### Project Repo Link
 
-(Include a link to your project on GitHub)
+Project Repo Link
+------------------------------------------------------------------------------------------------------------------------
+
+Created a repository with readme.md and License, Spring.IO or spring boot files
+
+https://github.com/suhachakka/reward-center.git

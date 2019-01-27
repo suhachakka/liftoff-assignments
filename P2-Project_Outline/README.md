@@ -18,15 +18,21 @@ Overview:
 Features:
 
     .User Authentication : User can Login /log out/ create an account setup
+
     .Search : By using search functionality, User can check/finds his offers
+
     .Notification: which will send a text message for the offers and expiration time
+
     .CRUD :  which will allow user can add/read/update/delete the offers.
 
 Technologies:
 
     .Java 8
+
     .Spring Boot with dependencies
+
     .Html/css/bootstrap
+    
     .MySQL Database
 
 What I'll have to learn:

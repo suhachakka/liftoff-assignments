@@ -15,7 +15,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 
   This application maintains and helps the user to use right card at right time(Shopping/stores.Gas station..).
 
-##Features
+## Features
 
 - User Authentication : User can Login /log out/ create an account setup
 
@@ -25,7 +25,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 - CRUD :  which will allow user can add/read/update/delete the offers.
 
-##Technologies
+## Technologies
 
 - Java 8
 
@@ -35,7 +35,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 - MySQL Database
 
-##What I'll have to learn:
+## What I'll have to learn:
 
     Using the new features like GPS location
 

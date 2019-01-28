@@ -5,13 +5,14 @@ For this assignment, you'll create some initial plans for your project.
 [Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
 
 ## Submission Instructions
+
 WireFrames
 ------------------------------------------------------------------------------------------------------------------------
-. Home page
+- Home page
 
-. Register page
+- Register page
 
-. offers page to view offers for each card
+- offers page to view offers for each card
 
 https://app.moqups.com/suha/cDUnBFKZzw/view/page/a591b6c06
 ------------------------------------------------------------------------------------------------------------------------

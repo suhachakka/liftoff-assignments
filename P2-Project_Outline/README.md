@@ -8,7 +8,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ## Project Outline
 
-##Overview
+## Overview
 
   My project will be an REWARD CENTER which allow users to manage their cash back offers and benefits on each card they have it.
   Its hard to remember the offers and benefits on each card because each card has many offers and changes time to time.

@@ -19,4 +19,3 @@ You will need to upload a .PDF of your resume to this repo, or connect with your
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
 
-[Resume](file:///C:/Users/sures/OneDrive/Documents/Suhasini_Resume.pdf)
